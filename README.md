@@ -2,7 +2,7 @@
 
 ### About:
 
-This is a replica e-commerce site of an Etsy page. This repo has generated 100 unique records for each refresh will generate a new item. This repo is renders 5 modules put together to display a replica of an e-commerce page, Etsy.
+This is a replica e-commerce site of an Etsy page. This repo has generated 100 unique records for each refresh will generate a new item. This repo is renders 5 modules put together.
 
 
 ## Related repos:
